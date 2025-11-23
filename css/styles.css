@@ -10971,9 +10971,4 @@ section.resume-section .resume-section-content {
   }
 }
 
-/* Custom section title colors */
-#research .resume-section-content h2,
-#experience .resume-section-content h2,
-#news .resume-section-content h2 {
-  color: #bd5d38; /* same orange as sidebar */
-}
+
